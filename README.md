@@ -1,6 +1,6 @@
 # 🚀 HackWithInfy 2025 Preparation
 
-Welcome to my repository for **HackWithInfy 2025** preparation. This repo contains all important Java-based DSA concepts, problems, and notes with special focus on the **Greedy Algorithm** approach and other key topics asked in coding competitions.
+Welcome to my repository for **HackWithInfy 2025** 
 
 ---
 
