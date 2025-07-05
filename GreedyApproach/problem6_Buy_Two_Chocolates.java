@@ -19,7 +19,7 @@ public class problem6_Buy_Two_Chocolates {
      public static void main(String[] args) {
         
         int[] prices = {1, 2, 2};
-        int money = 3;
+        int money = 5;
 
         int remaining = buyChoco(prices, money);
         System.out.println("Remaining money: " + remaining);
