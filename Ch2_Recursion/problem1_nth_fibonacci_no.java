@@ -11,7 +11,7 @@ public class problem1_nth_fibonacci_no {
     }
     public static void main(String[] args) {
 
-        int n=100;
+        int n=6;
         System.out.println(fibonacci(n));
         
     }
