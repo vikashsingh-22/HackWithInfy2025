@@ -8,9 +8,8 @@ public class Problem01_CoinChange {
         dp[0] = 1;
 
         for (int i=0; i<coins.length; i++) {
-            int coin=coins[i];
-            for (int j = coin; i <=amount; i++) {
-                dp[j] += dp[j - coin];
+            for (int j = coins[i]; j <=amount; j++) {
+                dp[j] += dp[j - coins[i]];
             }
         }
 
